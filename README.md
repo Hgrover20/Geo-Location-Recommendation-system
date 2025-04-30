@@ -1,1 +1,1 @@
-# Location-Recommendation-system-using-Machine-Learning-and-GIS
+# Location-Recommendation-system
